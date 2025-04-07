@@ -9,7 +9,7 @@ int greenPotPin = A1;
 int bluePotPin = A2;
 
 void setup() {
-  // Configure RGB LED pins as outputs / Configure RGB LED pins as outputs
+  // Configure RGB LED pins as outputs / Configura los pines del LED RGB como salidas
   pinMode(redPin, OUTPUT);
   pinMode(greenPin, OUTPUT);
   pinMode(bluePin, OUTPUT);
